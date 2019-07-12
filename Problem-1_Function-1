@@ -1,1 +1,39 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Problem-1-Function-1}
+\author{Sakshi Nagpal- 40056535 }
+\date{July 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Arcos(x)  generally define as the inverse of the trigonometric Cosine function. The arc- prefix depicts the inverse part of the function. In general all the trigonometric  functions when measured in radians is of$\Theta$  radian.However the inverse function lies under the radian of $(r\Theta)$ . Cosine Function in general is the function for finding the value at an angle $\Theta$. Whereas the Inverse function is used to find the value  of an unknown length of right angle.
+
+\section{Characteristics of Arcos(x):}
+Originally the arcos function was simply written with the susbscipt '-1' but that was confused with the exponent. So to avoid this confusion arcos prefix was used and function was defined as followed: 
+\center If x=cos y
+ 
+\begin{flushleft} 
+ Then the inverse function is written as :
+ \end{flushleft}
+                \center y= cos $x^{-1}$  
+  \begin{flushleft}  
+  Which can also be written as : arccos x = cos $x^{-1}  = y$. 
+  \linebreak 
+   \end{flushleft}
+  \section{Domain and Range Of Inverse Function:}
+  The domain of the function is restricted to [-1,1]. Due to the mapping in case of Arccos function being many-to-one inverse function would not  satisfy any one range. Where as the arccos function defines in the range of 0 to $\pi$. \\
+ \begin{flushleft}
+   \section{References:}
+   \begin{enumerate}
+       \item Mathwords.com. (2019). Mathwords: Inverse Cosine. [online] Available at: https://www.mathwords.com/c/cosine_inverse.htm [Accessed 12 Jul. 2019].
+   \end{enumerate}
+ \end{flushleft}
+
+ 
+\end{document}
 
