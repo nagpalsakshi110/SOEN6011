@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Problem-2}
+\author{Sakshi Nagpal -40056535 }
+\date{July 2019}
+
+\begin{document}
+\maketitle
+
+\subsection*{Functional Requirements:}
+This document aims to represent the functional requirements for $y= cor^1 x$ function aka the inverse function of trigonometric function Cosine.\\
+For the simplicity of the document Functional Requirements will be denoted by"F" and Non Functional Requiremets as "NF". The version will be 1.0 for all the requirements. 
+Requirements required for the function are as follows:
+
+\subsection*{List of Requirements:}
+\begin{itemize}
+    \item ID for the arcos function :FR1-arcos(x).\\
+Owner: Sakshi Nagpal\\
+Version:1.0\\
+Type:F\\
+Description:If the value of x is greater than or less than -1. System should display an error. \\
+Rationale: Domain of the function is [-1,1]\\
+\item 
+ID for the arcos function :FR2-arcos(x).\\
+Owner: Sakshi Nagpal\\
+Version:1.0\\
+Type:F\\
+Description:If the value of x is float the value of y will also be in radians.\\
+Rationale: $cos30=0.866
+arcos(0.866)=30$
+\\
+\item ID for the arcos function :FR3-arcos(x).\\
+Owner: Sakshi Nagpal\\
+Version:1.0\\
+Type:F\\
+Description:To make the value of the function positive we use symmetry.\\
+Rationale:
+\\
+\item ID for the arcos function :FR4-arcos(x).\\
+Owner: Sakshi Nagpal\\
+Version:1.0\\
+Type:F\\
+Description:
+Rationale:
+\\
+\end{itemize}
+   
+
+
+
+\end{document}
