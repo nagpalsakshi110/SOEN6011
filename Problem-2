@@ -18,14 +18,14 @@ Requirements required for the function are as follows:
     \item ID for the arcos function :FR1-arcos(x).\\
 Owner: Sakshi Nagpal\\
 Version:1.0\\
-Type:F\\
+
 Description:If the value of x is greater than or less than -1. System should display an error. \\
 Rationale: Domain of the function is [-1,1]\\
 \item 
 ID for the arcos function :FR2-arcos(x).\\
 Owner: Sakshi Nagpal\\
 Version:1.0\\
-Type:F\\
+
 Description:If the value of x is float the value of y will also be in radians.\\
 Rationale: $cos30=0.866
 arcos(0.866)=30$
@@ -33,17 +33,24 @@ arcos(0.866)=30$
 \item ID for the arcos function :FR3-arcos(x).\\
 Owner: Sakshi Nagpal\\
 Version:1.0\\
-Type:F\\
+
 Description:To make the value of the function positive we use symmetry.\\
 Rationale:
 \\
 \item ID for the arcos function :FR4-arcos(x).\\
 Owner: Sakshi Nagpal\\
 Version:1.0\\
-Type:F\\
-Description:
-Rationale:
+
+Description:The positive value will always lie int the 1st quadrant and the negaive value in $2^nd$ Quadrant.
+Rationale:The range of the function is[0,$\pi$].
 \\
+ID for the arcos function :FR5-arcos(x).\\
+Owner: Sakshi Nagpal\\
+Version:1.0\\
+
+Description:The positive value will always lie int the 1st quadrant and the negaive value in $2^nd$ Quadrant.
+Rationale:The range of the function is[0,$\pi$].
+\item 
 \end{itemize}
    
 
