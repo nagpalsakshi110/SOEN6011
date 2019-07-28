@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Problem-4}
+\author{Sakshi Nagpal }
+\date{July 2019}
+
+\begin{document}
+\section{Debugger}
+Debugging a way of detecting errors in your code by executing the code. We can check the correctness of the code variable by variable. For our project we have used the in-built  Debugger from Eclipse IDE i.e. JDT Debugger. \\
+
+Advantages of using Debugger:
+\begin{itemize}
+    \item Using the print statements for checking the correctness was one of the methods that could have been used but for that we have to our code but using debugger makes the work more easier to check the code.
+    \item It made easier to check the code because of the familiarity of the IDE with the language knowledge.
+    \item The debugger connects with the libraries used. 
+    \item Using this debugger makes it easier for the programmer because they can simply edit the code, recompile it and update everything in same window instead of getting into the hassle of copying code and then making changes.\\
+    
+    Disadvantages of Using IDE compilers:
+    
+    \item Doesn't really works well with the multiple screens.
+    
+\end{itemize}
+
+\section{Efforts in achieving the Quality Attributes}
+ Our program is expected to be \textbf{Correct, Efficient, Maintainable, Robust and Usable }. To achieve these Quality attributes following efforts were made.
+ \begin{itemize}
+     \item For achieving \textbf{Correctness} we created the Code Contacts and JUit Test cases were in Problem 2 and Problem 6 respectively.
+     \item To ensure the \textbf{Efficiency} we avoided the use of common code.
+     \item Further to achieve the code quality we used source code analyzer \textbf{CheckStyle}. 
+     \item Also we used an Eclipse Plugin called PMD to avoid any kind of Dead code, Empty Tr-Catch Block, To check if the program has any complicated methods. 
+     
+ \end{itemize}
+
+
+
+\end{document}
